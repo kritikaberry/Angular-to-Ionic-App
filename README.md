@@ -1,3 +1,10 @@
+# References:
+1.	https://ionicframework.com/docs/angular/your-first-app
+2.	https://ionicframework.com/docs/developing/android
+3.	https://gradle.org/install/
+4.	https://dev.to/a_shokn/how-to-convert-your-existing-angular-project-to-an-ionic-app-465l
+5.	https://www.360logica.com/blog/how-to-set-path-environmental-variable-for-sdk-in-windows/
+
 # Proj
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
